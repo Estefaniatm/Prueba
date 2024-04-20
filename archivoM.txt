@@ -1,2 +1,4 @@
 hoy estamos trabajando con git
 en el modulo de nuevas tecnologias de programacion
+generando un cambio con conflicto
+como se agrega el conlicto
